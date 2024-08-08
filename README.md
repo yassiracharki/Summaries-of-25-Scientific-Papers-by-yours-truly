@@ -91,4 +91,4 @@ spark." IEEE network 30.3 (2016): 22-29.**
 
 [26] **Chowdhary, K. R. Fundamentals of artificial intelligence. New Delhi: Springer India, 2020.**
 
-Buy Me a Coffee : https://buymeacoffee.com/yassirachag
+<a href="https://www.buymeacoffee.com/yassirachag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
